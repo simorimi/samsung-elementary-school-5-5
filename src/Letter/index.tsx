@@ -1,6 +1,6 @@
 import { useState } from "react";
-import myPicture from "../images/나.png";
-import studentsPicture from "../images/단체.png";
+import myPicture from "../assets/나.png";
+import studentsPicture from "../assets/단체.png";
 import * as S from "./styled";
 
 const Letter = () => {
